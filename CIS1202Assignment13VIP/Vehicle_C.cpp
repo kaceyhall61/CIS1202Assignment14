@@ -45,5 +45,5 @@ int Vehicle_C::Get_YearBuilt()
 void Vehicle_C::Display_Info()
 {
 	cout << "Manufactured by: " << manufacturer << endl;
-	cout << "Year built: " >> yearBuilt << endl;
+	cout << "Year built: " << yearBuilt << endl;
 }
