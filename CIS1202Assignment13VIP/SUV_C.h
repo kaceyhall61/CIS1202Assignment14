@@ -8,10 +8,6 @@ class SUV_C : public Car_C
 private:
 	int gasCapacity;
 
-protected:
-
-
-
 public:
 	SUV_C();
 	SUV_C(int);

@@ -8,10 +8,6 @@ class Car_C : public Vehicle_C
 private:
 	int numDoors;
 
-protected:
-
-
-
 public:
 	Car_C();
 	Car_C(int);

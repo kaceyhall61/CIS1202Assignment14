@@ -12,9 +12,6 @@ private:
 	string manufacturer;
 	int yearBuilt;
 
-protected:
-
-
 public:
 	Vehicle_C();
 	Vehicle_C(string);
